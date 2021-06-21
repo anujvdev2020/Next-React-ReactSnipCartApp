@@ -1,0 +1,16 @@
+[
+  {
+    "title": "1gm gold coin",
+    "id": "1gm_logo",
+    "description": "24K Gold Coin",
+    "price": "5400",
+    "image": "/images/g1.jpg"
+  },
+  {
+    "title": "2gm Gold Coin",
+    "id": "2gm_logo",
+    "description": "24K Gold Coin",
+    "price": "11000",
+    "image": "/images/g1.jpg"
+  }
+]
